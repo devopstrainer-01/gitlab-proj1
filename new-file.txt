@@ -20,6 +20,6 @@ Code section<
 This is the code sections.
 
 
-New contents....
+New New File Added for Merge conflict New contents....
 
 
